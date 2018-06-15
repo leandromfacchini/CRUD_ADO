@@ -1,0 +1,7 @@
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\bin\Debug\CRUD.DAL.dll.config
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\bin\Debug\CRUD.DAL.dll
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\bin\Debug\CRUD.DAL.pdb
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\obj\Debug\CRUD.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\obj\Debug\CRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\obj\Debug\CRUD.DAL.dll
+C:\Users\Leandro\source\repos\CRUD ADO\CRUD\CRUD.DAL\obj\Debug\CRUD.DAL.pdb
