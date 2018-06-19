@@ -1,2 +1,1 @@
-GitHub
-Nova linha
+Projeto criado para estudos com utilização da Linguagem C# e ADO.NET
